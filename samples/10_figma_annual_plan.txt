@@ -1,0 +1,18 @@
+Figma Inc.
+767 Sansome Street, San Francisco, CA 94111
+Subscription Receipt
+
+Order ID: FIG-2026-30291
+Date: 2026-06-10
+Account: freelance-team@sidehustle.dev
+
+Plan Details:
+Figma Professional (Annual Billing)
+1 Full Design Seat x 12 months ($12/mo) ........ $144.00
+-------------------------------------------------------
+Subtotal:                                       $144.00
+Sales Tax:                                        $0.00
+Grand Total:                                    $144.00
+Payment Method: Visa ending in 1948
+Next Renewal: June 10, 2027
+Thank you for designing with Figma!

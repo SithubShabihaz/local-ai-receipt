@@ -1,0 +1,2 @@
+[console_scripts]
+local-invoice-sorter = src.local_invoice_sorter.cli:main

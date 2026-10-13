@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "tiger-cloud": {
+      "command": "tiger",
+      "args": [
+        "mcp",
+        "start"
+      ],
+      "env": {
+        "TIGER_READ_ONLY": "false"
+      }
+    },
+    "local-invoice-sorter": {
+      "command": "python",
+      "args": [
+        "-m",
+        "src.local_invoice_sorter.mcp.server"
+      ],
+      "env": {
+        "PYTHONPATH": "."
+      }
+    }
+  }
+}

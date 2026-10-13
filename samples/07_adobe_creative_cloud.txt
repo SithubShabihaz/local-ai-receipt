@@ -1,0 +1,19 @@
+Adobe Systems Incorporated
+345 Park Avenue, San Jose, CA 95110
+Tax Invoice
+
+Invoice Number: ADB-89218491
+Invoice Date: 2026-07-18
+Customer: Freelance Content Designer
+
+Product                                           Amount
+-------------------------------------------------------
+Adobe Creative Cloud All Apps (Individual)       $54.99
+Includes Photoshop, Illustrator, Premiere Pro
+-------------------------------------------------------
+Subtotal:                                        $54.99
+Tax (0%):                                         $0.00
+Total:                                           $54.99
+Payment Method: Master Card ending in 4111
+Tax ID: US942758990
+Thank you for your business.

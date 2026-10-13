@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  # Local TimescaleDB service (for developers testing before deploying to Tiger Cloud)
+  timescaledb:
+    image: timescale/timescaledb-ha:pg16
+    container_name: local-timescaledb
+    environment:
+      POSTGRES_USER: tsdbuser
+      POSTGRES_PASSWORD: tsdbsecret
+      POSTGRES_DB: tsdb
+    ports:
+      - "5432:5432"
+    volumes:
+      - timescaledb_data:/home/postgres/pgdata/data
+      - ./src/local_invoice_sorter/db/schema.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U tsdbuser -d tsdb"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  # CLI & Application worker service
+  invoice-sorter:
+    build: .
+    container_name: local-invoice-sorter-app
+    depends_on:
+      timescaledb:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgres://tsdbuser:tsdbsecret@timescaledb:5432/tsdb?sslmode=disable
+      LOCAL_AI_BACKEND: auto
+      OLLAMA_BASE_URL: http://host.docker.internal:11434
+    volumes:
+      - ./samples:/app/samples
+    command: ["batch-ingest", "samples"]
+
+volumes:
+  timescaledb_data:

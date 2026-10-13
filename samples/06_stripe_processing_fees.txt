@@ -1,0 +1,21 @@
+Stripe, Inc.
+354 Oyster Point Blvd, South San Francisco, CA
+Monthly Merchant Processing Fee Statement
+
+Statement ID: STRIPE-STMT-2026-09
+Date: 2026-09-30
+Merchant: Side Hustle Digital Goods
+
+Summary:
+Gross Processed Volume: $1,120.00
+Card Transactions Count: 28
+
+Itemized Fees:
+- Credit Card Processing Fee (2.9% + 30c) ...... $28.40
+- Stripe Billing Platform Active Fee ............ $4.00
+-------------------------------------------------------
+Subtotal Fees:                                   $32.40
+Tax:                                              $0.00
+Total Amount:                                    $32.40
+Debited from payout balance on Sep 30, 2026.
+Questions: support@stripe.com

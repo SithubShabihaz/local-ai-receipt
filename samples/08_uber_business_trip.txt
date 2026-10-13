@@ -1,0 +1,20 @@
+Uber Technologies, Inc.
+1515 3rd Street, San Francisco, CA 94158
+Trip Receipt - Business Ride
+
+Trip Date: 2026-08-04 09:12 AM
+Driver: Marcus R.
+Rider: Business Account
+
+Trip Route:
+Pickup: Financial District, SF
+Dropoff: SFO International Airport (Client Onsite Meeting)
+
+Fare Breakdown:
+Base Fare & Distance (14.2 miles) .............. $32.50
+Airport Surcharge & Toll ........................ $4.25
+San Francisco City Tax (3.25%) .................. $2.00
+-------------------------------------------------------
+Total Amount:                                    $38.75
+Charged to Visa business ending 4401
+Your trip was carbon-neutral.

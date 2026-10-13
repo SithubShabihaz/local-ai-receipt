@@ -1,0 +1,56 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "local-invoice-sorter"
+version = "0.1.0"
+description = "Production-grade Local AI Receipt & Invoice Sorter for Side Hustlers powered by Tiger Cloud (TimescaleDB) and Model Context Protocol (MCP)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+    { name = "Hacktoberfest AI Contributor", email = "hacktoberfest@example.com" }
+]
+keywords = [
+    "timescaledb",
+    "tiger-cloud",
+    "mcp",
+    "model-context-protocol",
+    "invoice-parser",
+    "side-hustle",
+    "finance",
+    "hacktoberfest",
+    "ai-agents"
+]
+dependencies = [
+    "psycopg[binary]>=3.2.0",
+    "pydantic>=2.7.0",
+    "pydantic-settings>=2.2.0",
+    "typer[all]>=0.12.0",
+    "rich>=13.7.0",
+    "tabulate>=0.9.0",
+    "python-dotenv>=1.0.0",
+    "python-dateutil>=2.8.2",
+    "httpx>=0.27.0",
+    "mcp>=1.2.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-asyncio>=0.23.0",
+]
+
+[project.scripts]
+local-invoice-sorter = "src.local_invoice_sorter.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
+
+[tool.pytest.ini_options]
+minversion = "8.0"
+addopts = "-ra -q"
+testpaths = ["tests"]
+pythonpath = ["."]

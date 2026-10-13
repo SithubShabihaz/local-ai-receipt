@@ -1,0 +1,25 @@
+=======================================================
+TIGER DATA INC. - INVOICE
+=======================================================
+Invoice ID: INV-TIGER-2026-1049
+Date: 2026-10-01
+Account: shabiha-side-hustle
+Payment Method: Visa ending in 4242
+
+Billed To:
+Local AI Sorter Freelance Project
+San Francisco, CA
+
+DESCRIPTION                                     AMOUNT
+-------------------------------------------------------
+Tiger Cloud Managed TimescaleDB (Standard Tier)   $45.00
+Continuous Aggregates Background Compute           $4.00
+Storage (Columnar Compressed Hypertables 12GB)     $0.00 (Included)
+-------------------------------------------------------
+Subtotal:                                         $49.00
+Sales Tax (0.00%):                                 $0.00
+Total Amount:                                     $49.00
+Payment Status: PAID IN FULL
+
+Thank you for building fast time-series on Tiger Cloud!
+Questions? support@tigerdata.cloud

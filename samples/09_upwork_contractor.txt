@@ -1,0 +1,20 @@
+Upwork Global Inc.
+475 Brannan St, Suite 430, San Francisco, CA 94107
+Contractor Service Invoice
+
+Invoice #: UPW-2026-901182
+Date: 2026-09-08
+Client: Side Hustle Mobile App Launch
+
+Freelancer: Alex K. (Senior UI/UX Specialist)
+Contract ID: 49201948
+
+Services Rendered:
+Mobile App Figma Design System and Vector Icons
+Hours: 5.0 hrs @ $50.00/hr ...................... $250.00
+-------------------------------------------------------
+Subtotal:                                       $250.00
+Processing & Marketplace Fee:                     $0.00
+Total:                                          $250.00
+Paid in full on September 08, 2026
+Tax Classification: IRS 1099-NEC Contractor Expense

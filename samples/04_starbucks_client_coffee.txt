@@ -1,0 +1,19 @@
+STARBUCKS STORE #10842
+Market St & 4th, San Francisco, CA
+Tel: (415) 555-0199
+
+Check: #44921
+Date: 2026-09-22 14:15:30
+Server: Chris
+Client Meeting Coffee & Pastries
+
+1 Grande Caramel Macchiato         $5.45
+1 Iced Brown Sugar Oat Espresso    $5.95
+1 Blueberry Scone                  $3.45
+----------------------------------------
+Subtotal:                         $14.85
+Tax (8.625%):                      $1.28
+Total:                            $16.13
+Payment: Contactless Visa Approved
+AUTH: 092813
+Customer Copy

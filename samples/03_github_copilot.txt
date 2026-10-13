@@ -1,0 +1,18 @@
+GitHub Inc.
+88 Colin P Kelly Jr St, San Francisco, CA 94107
+Receipt for Payment
+
+Receipt #: GH-2026-88192
+Date: 2026-09-15
+Customer: Freelance Dev Account
+
+Item Description                                  Total
+-------------------------------------------------------
+GitHub Pro Plan (Monthly)                         $4.00
+GitHub Copilot Individual Subscription           $10.00
+GitHub Actions Extra Minutes (500 mins)           $5.00
+-------------------------------------------------------
+Subtotal:                                        $19.00
+Sales Tax:                                        $0.00
+Total Paid:                                      $19.00
+Status: Paid with Apple Pay

@@ -1,0 +1,19 @@
+Amazon Web Services, Inc.
+TAX INVOICE / STATEMENT
+Invoice Number: 984028472
+Invoice Date: October 05, 2026
+Billing Period: September 2026
+
+Vendor: Amazon Web Services (AWS)
+410 Terry Avenue North, Seattle, WA 98109-5210
+
+Summary of Charges:
+- Elastic Compute Cloud (EC2 t4g.small) ........... $32.40
+- Simple Storage Service (S3 Standard Storage) .... $14.25
+- Amazon CloudFront Data Transfer Out ............. $18.50
+- Route 53 Hosted Zones ........................... $12.00
+
+Subtotal: $77.15
+Estimated Tax (WA 9.15%): $7.05
+Total Amount: $84.20
+Payment Received: $84.20 via Mastercard ending 9012

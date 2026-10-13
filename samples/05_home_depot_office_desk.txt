@@ -1,0 +1,19 @@
+THE HOME DEPOT #0681
+2455 Paces Ferry Rd NW, Atlanta, GA
+Store Receipt - Home Office Setup
+
+Order Number: HD-9948102
+Date: 2026-08-14
+Cashier: Register 4
+
+SKU         DESCRIPTION                      PRICE
+--------------------------------------------------
+481920      Husky 52in Adjustable Work Desk  $249.00
+102948      Commercial Surge Protector 12ft   $24.99
+881920      Cable Management Raceway Kit      $15.51
+--------------------------------------------------
+Subtotal:                                    $289.50
+State Tax:                                    $20.27
+Grand Total:                                 $309.77
+Account Paid: AMEX Business Ending 1004
+Thank you for shopping at The Home Depot!

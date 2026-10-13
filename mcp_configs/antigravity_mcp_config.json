@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "tiger-cloud": {
+      "command": "tiger",
+      "args": ["mcp", "start"],
+      "description": "Tiger Cloud TimescaleDB Official MCP Server"
+    },
+    "local-invoice-sorter": {
+      "command": "python",
+      "args": ["-m", "src.local_invoice_sorter.mcp.server"],
+      "description": "Local AI Receipt & Invoice Sorter domain tools"
+    }
+  }
+}
